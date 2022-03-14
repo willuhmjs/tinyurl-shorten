@@ -1,6 +1,6 @@
 {
   "name": "tinyurl-shorten",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An error-resistant module to shorten a URL using TinyURL.",
   "main": "src/index.js",
   "dependencies": {
