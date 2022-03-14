@@ -1,0 +1,23 @@
+{
+  "name": "tinyurl-shorten",
+  "version": "1.0.0",
+  "description": "An error-resistant module to shorten a URL using TinyURL.",
+  "main": "src/index.js",
+  "dependencies": {
+    "centra": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willuhm-js/tinyurl-shorten.git"
+  },
+  "keywords": [
+    "url-shortener",
+    "tinyurl"
+  ],
+  "author": "William Faircloth",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/willuhm-js/tinyurl-shorten/issues"
+  },
+  "homepage": "https://github.com/willuhm-js/tinyurl-shorten#readme"
+}
